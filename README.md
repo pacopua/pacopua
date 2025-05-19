@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Adrià Cebrián Ruiz</h1>
 <h3 align="center">I'm currently studying computer engineering at UPC-FIB</h3>
 
-- 📫 How to reach me: **adria.cebrian@estudiantat.upc.edu**
+- 📫 How to reach me: **adrisworking@gmail.com**
 
 - ⚡ Fun fact: **I have never seen a baby pigeon**
 
