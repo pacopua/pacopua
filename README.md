@@ -28,7 +28,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.2d296158.png&w=828&q=75&dpl=dpl_mSdSxMpWczqosXrtoEd8T58CZGdq" alt="chromadb" width="40" height="30"/> </a>
+<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/chroma-core.png" alt="ChromaDB" width="40" height="40" style="border-radius:10px" /> </a>
 <br><br>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> </a>
 </p>
