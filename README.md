@@ -3,8 +3,6 @@
 
 - 📫 How to reach me: **adrisworking@gmail.com**
 
-- ⚡ Fun fact: **I have never seen a baby pigeon** --- UPDATE [4/3/2026]: I saw a baby pigeon the other day, it was amazing
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adria-cebrian-ruiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrià cebrián ruiz" height="30" width="40" /></a>
