@@ -9,26 +9,35 @@
 </p>
 
 ### About me
-- **B.Sc. in informatics engineering**, specializing in Computer Science and Artificial intelligence at **UPC -- FIB** (Barcelona).
-- **M.Sc in Inovation and Research in Informatics**, ongoing Master at **UPC -- FIB** (Barcelona).
+- 🎓 **M.Sc. in Innovation and Research in Informatics**, specializing in Advanced Computing at **FIB – UPC** (Barcelona). Ongoing, since Sep 2026.
+- 🎓 **B.Sc. in Informatics Engineering**, specializing in Computer Science at **FIB – UPC** (Barcelona), 2022 – 2026. Bachelor's thesis graded **9.2/10**.
 
 ### Experience
-* 💼 **AI/Software Engineer** @ **Colb.ai Advisors** *(AI-based consulting)* — Sep 2025 – Jun 2026
-  * Designed and implemented intelligent AI workflows for client projects.
-  * Built a RAG (Retrieval-Augmented Generation) system for medical-field information retrieval, using OCR, chunking, and embedding pipelines over scientific articles. This improved response accuracy and added citations to verify the statements made by the chatbot.
-  * Developed final degree thesis here: an automated AI workflow that follows a curated process across three phases — requirement gathering, system design & development, and client follow-ups — making code changes and feature additions far easier than using LLMs directly. The AI generates design documents and implementation plans that the developer must review and approve before implementation begins, keeping the developer more involved than in conventional AI usage, while also improving traceability.
-* 🦾 **Head of Software Department** @ **Arm2U** *(UPC-sponsored student team)* — Mar 2026 – Ongoing
-  * Contributing to an affordable 3D-printed arm prosthesis for people with amputations, using accessible components. My main role focuses on AI algorithms and data cleaning: EMG (electromyography) sensor readings are often extremely noisy and irregular, requiring filtering and preprocessing before being usable for movement classification.
+* 🦾 **Head of Software Department** @ **ARM2u** *(UPC student initiative)*, Mar 2026 – Ongoing
+  * Building an affordable 3D-printed myoelectric arm prosthesis from accessible components. My role focuses on AI algorithms and data cleaning: EMG (electromyography) readings are noisy and irregular, so they need filtering and preprocessing before they can be used for movement classification. The models run on ESP32 boards.
+* 💼 **Junior AI Engineer** @ **ColbAI Advisors** *(AI consulting)*, Sep 2025 – Jun 2026
+  * Built a RAG (Retrieval-Augmented Generation) system for medical research, with OCR (Docling), chunking and embedding pipelines over scientific articles. It improved response accuracy and added citations so the chatbot's statements could be verified.
+  * Designed and implemented AI workflows for client projects with LangChain on Azure.
+  * Carried out my bachelor's thesis there: [**colbPowers**](https://github.com/pacopua/colbPowers), a system that automates a client software project across three phases: requirements gathering, development, and client follow-up. The AI writes design documents and implementation plans that the developer reviews and approves before any code is written, then runs multi-agent implementation and code review.
+
+### Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| [**colbPowers**](https://github.com/pacopua/colbPowers) | Bachelor's thesis (9.2/10): spec-driven development plugin for Claude Code and OpenCode, plus meeting transcription → architecture plan → GitHub issues, and follow-up document generation | Python, JavaScript, LangChain, Azure |
+| [**UR3 Failure Prediction**](https://github.com/pacopua/APA_FINAL) | Fault classification on robot-arm sensor time series with severe class imbalance: PACF lag features, SMOTE, cost-sensitive learning, voting ensemble | Python, scikit-learn, PyTorch |
+| [**Warehouse Layout Optimizer**](https://github.com/pacopua/HackUPC2026) | HackUPC 2026 (Mecalux challenge): NP-hard facility layout solver with Simulated Annealing, Genetic Algorithms and a Separating Axis Theorem collision engine, under a 30 s limit | C++20, Optuna, React/Three.js |
+| [**Graph Percolation Study**](https://github.com/pacopua/Graph-Components-Study) | Empirical study of phase transitions in percolated grid, random geometric and Barabási–Albert graphs | C++17, Union-Find, Python |
+| [**Product Distributor 3000**](https://github.com/pacopua/Product-Distributor3000) | Desktop app that places supermarket products using pairwise synergy, with Hill Climbing, Simulated Annealing and brute force | Java, JavaFX, Gradle |
 
 ### Core focus and interests
-My main interests lay on the fields Artificial Inteligence (specially on the advantages it could provide to medicine) and High Performance Computing. Specifically, I'd like to focus my future working experiences to research environments.
+My main interests lie in Artificial Intelligence (especially what it can bring to medicine), optimization and High Performance Computing. I'd like to focus my career on research environments.
 
 ### Tech Stack & Core Competencies
 ```
-  AI & Machine Learning    │ PyTorch • LangGraph • Optuna • Scikit-Learn • OpenCV
+  AI & Machine Learning    │ PyTorch • Scikit-Learn • LangChain • LangGraph • RAG • Optuna • OpenCV
+  Optimization             │ SAT/CP/MIP solvers • Simulated Annealing • Genetic Algorithms • Local Search
   Quantitative & Data      │ Pandas • NumPy • PostgreSQL • ChromaDB • Supabase
-  Statistical Inference    │ Bayesian Networks • Hidden Markov Models • MAP/MLE • EM Algorithm • SHAP XAI
   Languages                │ Python • C++ • SQL • Java • C • Prolog • Bash • Haskell
-  Parallelism & HPC        | OpenMP • Apache Spark
-  Development & Hardware   │ Linux • Git • CMake • Docker • Arduino
+  Parallelism & HPC        │ OpenMP • Apache Spark
+  Development & Hardware   │ Linux • Git • CMake • Docker • Azure • Arduino
 ```
