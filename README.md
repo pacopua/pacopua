@@ -10,7 +10,7 @@
 
 ### About me
 - 🎓 **M.Sc. in Innovation and Research in Informatics**, specializing in Advanced Computing at **FIB – UPC** (Barcelona). Ongoing, since Sep 2026.
-- 🎓 **B.Sc. in Informatics Engineering**, specializing in Computer Science at **FIB – UPC** (Barcelona), 2022 – 2026. Bachelor's thesis graded **9.2/10**.
+- 🎓 **B.Sc. in Informatics Engineering**, specializing in Computer Science at **FIB – UPC** (Barcelona), 2022 – 2026.
 
 ### Experience
 * 🦾 **Head of Software Department** @ **ARM2u** *(UPC student initiative)*, Mar 2026 – Ongoing
