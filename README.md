@@ -25,6 +25,7 @@
 |---|---|---|
 | [**colbPowers**](https://github.com/pacopua/colbPowers) | Bachelor's thesis (9.2/10): spec-driven development plugin for Claude Code and OpenCode, plus meeting transcription → architecture plan → GitHub issues, and follow-up document generation | Python, JavaScript, LangChain, Azure |
 | [**UR3 Failure Prediction**](https://github.com/pacopua/APA_FINAL) | Fault classification on robot-arm sensor time series with severe class imbalance: PACF lag features, SMOTE, cost-sensitive learning, voting ensemble | Python, scikit-learn, PyTorch |
+| [**RL Hyperparameter Study**](https://github.com/pacopua/Practica2SID) | Value Iteration, Model-Based RL, Q-Learning and REINFORCE on a stochastic CliffWalking, tuned with random search and ranked by Random Forest feature importance | Python, Gymnasium, Numba, scikit-learn |
 | [**Warehouse Layout Optimizer**](https://github.com/pacopua/HackUPC2026) | HackUPC 2026 (Mecalux challenge): NP-hard facility layout solver with Simulated Annealing, Genetic Algorithms and a Separating Axis Theorem collision engine, under a 30 s limit | C++20, Optuna, React/Three.js |
 | [**Graph Percolation Study**](https://github.com/pacopua/Graph-Components-Study) | Empirical study of phase transitions in percolated grid, random geometric and Barabási–Albert graphs | C++17, Union-Find, Python |
 | [**Product Distributor 3000**](https://github.com/pacopua/Product-Distributor3000) | Desktop app that places supermarket products using pairwise synergy, with Hill Climbing, Simulated Annealing and brute force | Java, JavaFX, Gradle |
